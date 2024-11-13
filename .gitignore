@@ -1,1 +1,10 @@
 /card_segmentation/pretrained/
+/database
+/data
+/prediction
+/card_segmentation/dataset
+/card_segmentation/my_test
+/card_segmentation/noisy_bg_test
+/card_segmentation/real_test
+/card_segmentation/simple_test
+/card_segmentation/test
